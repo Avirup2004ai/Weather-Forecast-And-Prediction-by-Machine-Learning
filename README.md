@@ -1,12 +1,6 @@
 # Weather-Forecast-And-Prediction-by-Machine-Learning
 
-![image](https://user-images.githubusercontent.com/37294801/83221305-09402d80-a1a8-11ea-83e4-79625d909a15.png)
-![image](https://user-images.githubusercontent.com/37294801/83221317-11986880-a1a8-11ea-914e-9747e9c71066.png)
-![image](https://user-images.githubusercontent.com/37294801/83221323-152bef80-a1a8-11ea-837b-492af14a426f.png)
-![image](https://user-images.githubusercontent.com/37294801/83221359-32f95480-a1a8-11ea-86a3-8afbf754a2af.png)
-![image](https://user-images.githubusercontent.com/37294801/83221420-5ae8b800-a1a8-11ea-9aa5-755cc495aa57.png)
-![image](https://user-images.githubusercontent.com/37294801/83221401-502e2300-a1a8-11ea-8639-19284354128f.png)
-
+![image]([https://user-images.githubusercontent.com/37294801/83221305-09402d80-a1a8-11ea-83e4-79625d909a15.png](https://3.bp.blogspot.com/-1OrTFTRXYAc/V-dyae4LC1I/AAAAAAAA5j4/awVKBuYhgLshSzNQm3l92HUnYvpsrbO6wCLcB/s1600/Forecasts.jpg))
 
 **
 
@@ -21,8 +15,6 @@ For the current situation, Hong Kong observatory conduct a traditional weather f
 
 **
 There are two purposes of my project. One of the purposeis to forecast the status of weather in the August of specific year. I will demonstrate the result through using decision tree regression and show the output for the status of wet or heat. Another aim is to predict the temperature using different algorithms like linear regression, random forest regression and K-nearest neighbor regression. The output value should be numerical based on multiple extra factors like population density and air health quality.
-
-![enter image description here](https://lh3.googleusercontent.com/43WkMUHGBC12Fap74eYDH-rsIg7BgmaeAev2f_xhoa1hg678kmiQbIEawUfKkjOjsrvpzhzUIvy9 "experiment")
 
 **
 
