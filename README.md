@@ -1,6 +1,6 @@
 # Weather-Forecast-And-Prediction-by-Machine-Learning
 
-![image]([https://user-images.githubusercontent.com/37294801/83221305-09402d80-a1a8-11ea-83e4-79625d909a15.png](https://3.bp.blogspot.com/-1OrTFTRXYAc/V-dyae4LC1I/AAAAAAAA5j4/awVKBuYhgLshSzNQm3l92HUnYvpsrbO6wCLcB/s1600/Forecasts.jpg))
+![image](https://3.bp.blogspot.com/-1OrTFTRXYAc/V-dyae4LC1I/AAAAAAAA5j4/awVKBuYhgLshSzNQm3l92HUnYvpsrbO6wCLcB/s1600/Forecasts.jpg)
 
 **
 
